@@ -23,3 +23,14 @@ bookstore/sites/sites/db-backup
 License
 
 MIT License. Copywright 2015 Sam Martinez
+
+Passwords for database: 
+User: bookstore_admin
+Password: password
+
+Passwords for Drupal site: 
+User: admin
+Password: password
+
+User: dude_reviewer
+Password: password
